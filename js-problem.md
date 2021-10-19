@@ -1,10 +1,12 @@
 # Problem List
 
-### Problem 1-
+## Problem 1-
+
 A input is given, example- "javascriptloops";
 Now First, print each vowel in  on a new line. The English vowels are a, e, i, o, and u, and each vowel must be printed in the same order as it appeared in .
 
 Second, print each consonant (i.e., non-vowel) in  on a new line in the same order as it appeared in .
+
 ```js
 //code will be like that
 function vowelsAndConsonants(s) {
@@ -23,7 +25,9 @@ function vowelsAndConsonants(s) {
 
 vowelsAndConsonants('javascriptloops')
 ```
-** Output will be...**
+
+**Output will be...**
+
 ```js
 a
 a
